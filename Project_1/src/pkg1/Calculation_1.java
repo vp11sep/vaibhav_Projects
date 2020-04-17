@@ -16,7 +16,7 @@ public class Calculation_1
 	{
 		float z;
 		z= (x-y);
-		System.out.println("sub result is "+z);
+		System.out.println("Sub result is "+z);
 		return (int) z;
 		
 	}
